@@ -1,5 +1,5 @@
 import "./style.css"
-import useInternetKontrol from "./useInternetKontrol";
+import useInternetKontrol from " ./useInternetKontrol.js";
 
 function App() {
   const baglanti = useInternetKontrol()
